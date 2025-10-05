@@ -1,0 +1,25 @@
+*{
+
+    padding: 0;
+    margin: 0;
+}
+
+
+.main{
+
+    height: 24vh;
+    width: 15;
+    /* display: flex;  */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin:50px;
+    margin-top: 170px;
+    color: white;
+    font-size: 30px;
+}
+
+body{
+
+    background-image: url(Temprature_converter.jpeg);
+}
